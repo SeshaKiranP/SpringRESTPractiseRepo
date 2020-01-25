@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sbrapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: prudhvi
+Implementation-Vendor-Id: com.sbrapi
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/sbrapi/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
